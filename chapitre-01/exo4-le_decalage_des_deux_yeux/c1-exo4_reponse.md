@@ -5,7 +5,7 @@
 Déplacement mesuré : 
 
 $$
-d = x\ \text{cm}
+d = 5\ \text{cm}
 $$
 
 ### 2. Distance de 1 m
@@ -13,7 +13,7 @@ $$
 Déplacement mesuré : 
 
 $$
-d = xx\ \text{cm}
+d = 15\ \text{cm}
 $$
 
 ### 3. Distance de 3m
@@ -21,13 +21,13 @@ $$
 Déplacement mesuré : 
 
 $$
-d = xx\ \text{cm}
+d = 40\ \text{cm}
 $$
 
 ### Résultats
 
 | Distance du doigt | Déplacement mesuré |
 |---:|---:|
-| 30 cm | x cm |
-| 1 m | x cm |
-| 3 m | x cm |
+| 30 cm | 5 cm |
+| 1 m | 15 cm |
+| 3 m | 40 cm |
