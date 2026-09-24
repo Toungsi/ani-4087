@@ -10,8 +10,8 @@ Source :
 
 **2- En Release** 
 
-Taille : 50.2ko
-Temps de construction : 1.51s
+- Taille : 50.2ko
+- Temps de construction : 1.51s
 
 Source :
 [Release.png](Release.png)
