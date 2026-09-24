@@ -1,3 +1,6 @@
+## Lancez jenga info sur votre projet et lisez sa sortie en entier. Rendez-la, et dites ce qu'elle vous apprend que le fichier de projet ne disait pas explicitement
+
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║                ██╗███████╗███╗   ██╗ ██████╗  █████╗             ║
@@ -42,6 +45,7 @@ clang-cross-linux   clang    Linux       x86_64   gnu
 Daemon
 ------------------------------------------------------------
 Status: Not running
+```
 
 ## Ce qu'elle apprend
 
