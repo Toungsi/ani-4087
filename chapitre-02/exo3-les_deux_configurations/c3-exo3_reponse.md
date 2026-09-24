@@ -1,14 +1,14 @@
 ## Construisez votre projet en Debug puis en Release
 
-**- En Debug** 
+**1- En Debug** 
 
-Taille : 50.2ko
-Temps de construction : 2.24s
+- Taille : 50.2ko
+- Temps de construction : 2.24s
 
 Source :
 [Debug.png](Debug.png)
 
-**- En Release** 
+**2- En Release** 
 
 Taille : 50.2ko
 Temps de construction : 1.51s
